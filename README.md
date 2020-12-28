@@ -6,3 +6,5 @@ interested in the use of Computer Science in the social sector and artificial
 intelligence. I'm also hot as hell 😂.
 
 Testing a pull request.
+
+Testing whether I can code on VisualStudio
